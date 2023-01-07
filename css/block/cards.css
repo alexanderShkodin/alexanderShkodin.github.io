@@ -1,0 +1,11 @@
+.cart-item__title {
+  font-family: "Circe";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 140%;
+  /* identical to box height, or 28px */
+  text-align: center;
+  /* black */
+  color: #333333;
+}

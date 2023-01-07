@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Яичница-глазунья из трех яиц",
+    "itemsInBox": 1,
+    "weight": 250,
+    "price": 250,
+    "imgSrc": "/img/main/food-one.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Омлет из трёх яиц",
+    "itemsInBox": 1,
+    "weight": 270,
+    "price": 250,
+    "imgSrc": "/img/main/food2.png"
+  },
+  {
+    "id": 3,
+    "title": "Домашние сырники",
+    "itemsInBox": 1,
+    "weight": 182,
+    "price": 490,
+    "imgSrc": "/img/main/food3.png"
+  },
+  {
+    "id": 4,
+    "title": "Блины",
+    "itemsInBox": 1,
+    "weight": 150,
+    "price": 120,
+    "imgSrc": "/img/main/food4.png"
+  },
+  {
+    "id": 5,
+    "title": "Каша с ягодами",
+    "itemsInBox": 1,
+    "weight": 350,
+    "price": 450,
+    "imgSrc": "/img/main/food5.png"
+  },
+  {
+    "id": 6,
+    "title": "Скрэмбл",
+    "itemsInBox": 1,
+    "weight": 400,
+    "price": 290,
+    "imgSrc": "/img/main/food6.png"
+  },
+  {
+    "id": 7,
+    "title": "Яйцо Бенедикт с лососем",
+    "itemsInBox": 1,
+    "weight": 550,
+    "price": 850,
+    "imgSrc": "/img/main/food7.png"
+  },
+  {
+    "id": 8,
+    "title": "Яйцо Бенедикт с беконом",
+    "itemsInBox": 1,
+    "weight": 450,
+    "price": 650,
+    "imgSrc": "/img/main/food8.png"
+  }
+]
