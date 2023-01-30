@@ -1,0 +1,71 @@
+.order {
+  margin-bottom: 150px;
+  width: 100%;
+  background: #121212;
+  padding: 43px 0px;
+}
+
+.order__btn {
+  background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
+  border-radius: 50px;
+  padding: 10px 30px;
+  margin-right: 100px;
+}
+
+.order__container {
+  display: flex;
+  align-items: center;
+}
+
+.order__info-text {
+  display: flex;
+  align-items: center;
+}
+
+.order__info-students {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 180%;
+  /* identical to box height, or 24px */
+  /* white */
+  color: #FFFFFF;
+  opacity: 0.4;
+  margin-right: 30px;
+}
+
+.students {
+  margin-right: 100px;
+}
+
+.order__info-quantity {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+  /* identical to box height, or 24px */
+  /* white */
+  color: #FFFFFF;
+}
+
+.order__income {
+  position: relative;
+  margin-left: 100px;
+}
+
+.order__income-block {
+  content: "";
+  position: absolute;
+  width: 714px;
+  height: 6px;
+  background: #FFFFFF;
+}
+
+.order__income-subblock {
+  position: absolute;
+  width: 440px;
+  height: 6px;
+  background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
+}
